@@ -1,0 +1,68 @@
+/* Apply background colour */
+body {
+
+    background-color: #8b285f;
+    margin: 100;
+    padding: 200;
+  }
+
+
+
+
+
+
+
+
+/* Apply general styles to the body */
+body {
+    font-family: Arial, italic;
+    background-color: #913232;
+    margin: 5;
+    padding: 10;
+  }
+  
+  /* Center the form on the page */
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(245, 243, 245, 0.5);
+  }
+  
+  /* Style the form title */
+  h1 {
+    text-align: center;
+    text-decoration-skip: italic;
+  }
+  
+  /* Style labels and input elements */
+  label {
+    display: visual;
+    margin-top: 10px;
+  }
+  
+/* Style the submit button */
+button {
+    background-color: #e3e6e9;
+    color: #4f3c83;
+    padding: 10px 20px;
+    border: indigo;
+    border-radius: 3px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for the submit button */
+  button:hover {
+    background-color: #378fe7;
+  }
+  
+    /*go to link website next page */
+    :link{
+        bottom: auto;
+        border-block-end-style: dashed rgb(81, 81, 189);
+
+
+    }
